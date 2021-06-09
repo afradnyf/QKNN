@@ -4,4 +4,4 @@ Python code for quantum k-nearest neighbour algorithm devised by Afham, Afrad an
 
 This repository contains the code for the quantum k-nearest neighbour algorithm presented in the paper "Quantum k-nearest neighbor machine learning algorithm". Please consider citing our paper if you wish to use the code.
 
-For comments and suggestions, contact afrad@cmi.ac.in, afhamash@gmail.com or skgoyal@iisermohali.ac.in
+For comments and suggestions, contact Afrad.M.Basheer@student.uts.edu.au, afham.a.acad@gmail.com or skgoyal@iisermohali.ac.in
