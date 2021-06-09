@@ -1,4 +1,4 @@
-# Quantum $k$-nearest neighbour algorithm
+# Quantum _k_-nearest neighbour algorithm
 
 Python code for quantum k-nearest neighbour algorithm devised by Afham, Afrad and Dr. Sandeep K. Goyal.
 
